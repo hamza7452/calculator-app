@@ -31,6 +31,9 @@ input[type="text"] {
   border-radius: 10px;
   background-color: #f0f0f0;
 }
+#display{
+  color: black;
+}
 
 #keys {
   display: grid;
